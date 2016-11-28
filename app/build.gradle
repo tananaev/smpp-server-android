@@ -21,6 +21,7 @@ android {
 }
 
 dependencies {
+    compile 'com.fizzed:ch-smpp:6.0.0-netty4-beta-3'
     compile 'com.android.support:appcompat-v7:24.2.1'
     testCompile 'junit:junit:4.12'
 }
